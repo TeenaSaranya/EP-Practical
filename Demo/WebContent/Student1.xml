@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Student SYSTEM "Task2.dtd">
+<Student>
+	<student>
+		<regno>31233</regno>
+		<name>ABC</name>
+		<avg>92</avg>
+		<dob>17-06-2002</dob>
+		<time>10:15</time>
+		<mobile no="1234567890" />
+		<distinction>YES</distinction>
+	</student>
+	<student>
+		<regno>31460</regno>
+		<name>XYZ</name>
+		<avg>90</avg>
+		<dob>22-09-2001</dob>
+		<time>10:20</time>
+		<mobile no="0123456987" />
+		<distinction>YES</distinction>
+	</student>
+	<student>
+		<regno>31316</regno>
+		<name>PQR</name>
+		<avg>95</avg>
+		<dob>08-07-2002</dob>
+		<time>10:00</time>
+		<mobile no="9849984900" />
+		<distinction>YES</distinction>
+	</student>
+	<student>
+		<regno>170024</regno>
+		<name>DEF</name>
+		<avg>85</avg>
+		<dob>15-08-2000</dob>
+		<time>10:05</time>
+		<mobile no="4569871230" />
+		<distinction>YES</distinction>
+	</student>
+	<student>
+		<regno>170025</regno>
+		<name>UVW</name>
+		<avg>89</avg>
+		<dob>15-08-1992</dob>
+		<time>10:30</time>
+		<mobile no="2317986540" />
+		<distinction>YES</distinction>
+	</student>
+</Student>
